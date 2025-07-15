@@ -1,1 +1,35 @@
+# 📁 Fichiers à ignorer pour un projet Python avec Jupyter
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Environnements virtuels
+.venv/
+env/
+venv/
+
+# Notebooks temporaires
+.ipynb_checkpoints/
+
+# Données sensibles
+*.csv
+*.xlsx
+/data/raw/*
+/data/processed/*
+
+# Modèles
+/models/*.pkl
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Jupyter runtime
+.profile
+.ipython/
+# autres
 .planification.txt
