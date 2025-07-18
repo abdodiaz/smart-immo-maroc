@@ -35,7 +35,6 @@ smart-immo-maroc/
 │   ├── eda_preprocessing.ipynb
 │   └── model_training.ipynb
 │
-├── src/                  # Fonctions Python (load, preprocessing, model)
 ├── models/               # Modèles enregistrés (.pkl)
 ├── reports/              # Rapport final, graphiques
 │
