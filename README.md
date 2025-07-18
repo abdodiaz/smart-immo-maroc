@@ -36,7 +36,7 @@ smart-immo-maroc/
 │   └── model_training.ipynb
 │
 ├── models/               # Modèles enregistrés (.pkl)
-├── reports/              # Rapport final, graphiques
+├── reports/              # Rapport final
 │
 ├── requirements.txt
 ├── README.md
